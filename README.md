@@ -102,23 +102,23 @@ About Me = [
 <div>
     <div align="center">
         <h1>📊 Github Stats</h1>
-        <a href="https://github.com/AyushAgnihotri2025"><img src="https://github-readme-stats.vercel.app/api?username=Ayush-Agnihotri&theme=blue-green" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
+        <a href="https://github.com/AyushAgnihotri2025"><img src="https://github-readme-stats.vercel.app/api?username=AyushAgnihotri2025&theme=blue-green" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
         <br>
-        <a href="https://github.com/AyushAgnihotri2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Agnihotri&theme=blue-green" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
+        <a href="https://github.com/AyushAgnihotri2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAgnihotri2025&theme=blue-green" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
         <br><br>
     </div>
 </div>
 
 <div align="center">
     <h2>📊 Top Used Languages</h2>
-    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="Ayush-Agnihotri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Agnihotri&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="Ayush-Agnihotri's Top Languages"/></a><br>
+    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="AyushAgnihotri2025's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAgnihotri2025&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="AyushAgnihotri2025's Top Languages"/></a><br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     <br><br>
 </div>
 
 <div align="center">
     <h2>📊 Contribution Graph</h2>
-    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="Ayush Agnihotri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayush-Agnihotri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
+    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="Ayush Agnihotri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AyushAgnihotri2025&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
 </div>
 <br><br>
 <div>
