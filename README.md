@@ -118,7 +118,7 @@ About Me = [
 
 <div align="center">
     <h2>📊 Contribution Graph</h2>
-    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="Ayush Agnihotri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AyushAgnihotri2025&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
+    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="Ayush Agnihotri's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=AyushAgnihotri2025&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
 </div>
 <br><br>
 <div>
