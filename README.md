@@ -1,36 +1,44 @@
 <div>
     <div align="center">
-        <a href="https://github.com/AyushAgnihotri2025"><img src="https://cdn.mrayush.me/image/readme/GitHub.png" height="200"/></a>
+        <a href="https://github.com/AyushAgnihotri2025"><img src="https://cdn.mrayush.me/image/readme/GitHub.png" height="200" /></a>
     </div>
     <div align="center">
-        <a href="https://github.com/AyushAgnihotri2025"><img src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Ayush+Agnihotri;Student;Web+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast"/></a>
+        <a href="https://github.com/AyushAgnihotri2025">
+            <img
+                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Ayush+Agnihotri;Student;Web+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast"
+            />
+        </a>
     </div>
     <div align="center">
-        <a href="https://in.linkedin.com/in/AyushAgnihotri2025/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>
-        <a href="mailto:ayushagnihotri2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-        <a href="https://twitter.com/AyushAgni2025"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-        <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
-        <a href="https://t.me/MrCoderIN"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram"/></a>
+        <a href="https://in.linkedin.com/in/AyushAgnihotri2025/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+        <a href="mailto:ayushagnihotri2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <a href="https://twitter.com/AyushAgni2025"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+        <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" /></a>
+        <a href="https://t.me/MrCoderIN"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" /></a>
     </div>
     <div align="left">
-        <br>
+        <br />
         <p>
             <strong>
-                I'm a full stack web developer from India who is passionate about making open-source projects that are more accessible, making websites for future, creating technology to elevate people, and building community. Some technologies I enjoy working with include HTML, CSS and JavaScript for frontend development and Node JS, ReactJS, VueJs for backend development. You can find enormous and gigantic projects in my repository.
+                I'm a full stack web developer from India who is passionate about making open-source projects that are more accessible, making websites for future, creating technology to elevate people, and building community. Some
+                technologies I enjoy working with include HTML, CSS and JavaScript for frontend development and Node JS, ReactJS, VueJs for backend development. You can find enormous and gigantic projects in my repository.
             </strong>
         </p>
         <h1></h1>
         <ul>
             <li>🔭 <b>I’m currently working on</b>: CSS and Javascript Animations Effects.</li>
-            <li>👯 <b>I’m looking to collaborate on</b>: <a href="https://chat.mrayush.me/?refer=github">Squab: The Post App</a> and <a href="https://paint.mrayush.me/?refer=github">Paint Web App</a></li>
-            <li>🌱 <b>I’m currently learning</b>: Python, Java, Desgining, React js.</li>
+            <li>
+                👯 <b>I’m looking to collaborate on</b>: <a href="https://github.com/AyushAgnihotri2025/Calculator">Calculator</a>, <a href="https://chat.mrayush.me/?refer=github-sponsers">Squab: The Post App</a> and
+                <a href="https://paint.mrayush.me/?refer=github-sponsers">Paint Web App</a>
+            </li>
+            <li>🌱 <b>I’m currently learning</b>: Android, Python, Java, Desgining, React JS.</li>
             <li>💬 <b>Ask me about</b>: Web Development, API Developments and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
-            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://mrayush.me/projects/?refer=github">My Portfolio</a>.</li>
+            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://mrayush.me/projects/?refer=github-sponser">My Portfolio</a>.</li>
             <li>⚡ Fun fact: <b>I think I am funny</b>.</li>
         </ul>
-        <br>
+        <br />
     </div>
 </div>
 
