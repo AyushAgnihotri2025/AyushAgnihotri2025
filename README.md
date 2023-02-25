@@ -35,7 +35,7 @@
             <li>💬 <b>Ask me about</b>: Web Development, API Developments and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
-            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://mrayush.me/projects/?refer=github-sponser">My Portfolio</a>.</li>
+            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://mrayush.me/projects/?refer=github-profile">My Portfolio</a>.</li>
             <li>⚡ Fun fact: <b>I think I am funny</b>.</li>
         </ul>
         <br />
