@@ -20,8 +20,8 @@
         <br />
         <p>
             <strong>
-                I'm a full stack web developer from India who is passionate about making open-source projects that are more accessible, making websites for future, creating technology to elevate people, and building community. Some
-                technologies I enjoy working with include HTML, CSS and JavaScript for frontend development and Node JS, ReactJS, VueJs for backend development. You can find enormous and gigantic projects in my repository.
+                I'm a full-stack web developer from India, passionate about making open-source projects more accessible, making websites for the future, creating technology to elevate people, and building community.
+                I enjoy working with technologies like HTML, CSS, and JavaScript for frontend development and Node JS, ReactJS, VueJs, Python and Go for backend development. You can find enormous and gigantic projects in my repository.
             </strong>
         </p>
         <h1></h1>
@@ -110,16 +110,16 @@ About Me = [
 <div>
     <div align="center">
         <h1>📊 Github Stats</h1>
-        <a href="https://github.com/AyushAgnihotri2025"><img src="https://github-readme-stats.vercel.app/api?username=AyushAgnihotri2025&theme=blue-green&count_private=true&show_icons=true" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
+        <a href="https://github.com/AyushAgnihotri2025"><img src="https://ghstats.mrayush.in/api?username=AyushAgnihotri2025&theme=blue-green&count_private=true&show_icons=true" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
         <br>
-        <a href="https://github.com/AyushAgnihotri2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAgnihotri2025&theme=blue-green" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
+        <a href="https://github.com/AyushAgnihotri2025"><img src="https://ghstreak.mrayush.in/?user=AyushAgnihotri2025&theme=blue-green" title="Ayush Agnihotri's GitHub Stats" height="200"/></a>
         <br><br>
     </div>
 </div>
 
 <div align="center">
     <h2>📊 Top Used Languages</h2>
-    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="AyushAgnihotri2025's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAgnihotri2025&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="AyushAgnihotri2025's Top Languages"/></a><br>
+    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="AyushAgnihotri2025's Top Languages" src="https://ghstats.mrayush.in/api/top-langs/?username=AyushAgnihotri2025&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="AyushAgnihotri2025's Top Languages"/></a><br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     <br><br>
 </div>
