@@ -130,6 +130,12 @@ About Me = [
 </div>
 <br><br>
 
+<div>
+    <div align="center">
+    <h2>📊 WakaTime Stats</h2>
+    </div>
+    <br>
+
 <!--START_SECTION:AyushAgnihotri2025-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2054%20mins-blue)
 
@@ -176,6 +182,8 @@ Windows                  26 mins             ███████████�
 
  Last Updated on 19/07/2023 17:42:07 UTC
 <!--END_SECTION:AyushAgnihotri2025-->
+</div>
+<br><br>
 
 <div>
     <div align="center">
