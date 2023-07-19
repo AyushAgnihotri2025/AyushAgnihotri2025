@@ -129,6 +129,10 @@ About Me = [
     <br><a href="https://github.com/AyushAgnihotri2025"><img alt="Ayush Agnihotri's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=AyushAgnihotri2025&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
 </div>
 <br><br>
+
+<!--START_SECTION:AyushAgnihotri2025-->
+<!--END_SECTION:AyushAgnihotri2025-->
+
 <div>
     <div align="center">
         <a href="https://www.google.com/search?q=How+to+make+my+Internet+Connection+faster+%3F" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.gif" title="Loading..." height="100"/></a>
