@@ -209,6 +209,13 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:AyushAgnihotri2025-->
 </div>
 <br><br>
+<div align="center"> 
+ 
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+![footer](https://github.com/user-attachments/assets/a29c8f04-3004-407c-b037-0f74bb194894)
 
 <div>
     <div align="center">
