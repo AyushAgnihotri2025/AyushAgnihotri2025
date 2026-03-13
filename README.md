@@ -139,7 +139,7 @@ About Me = [
 <!--START_SECTION:AyushAgnihotri2025-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-976%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.2%20million%20lines%20of%20code-blue)
 
@@ -147,7 +147,7 @@ About Me = [
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 827 Contributions in the Year 2026
+> 🏆 833 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -158,21 +158,21 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7177 commits        █████████░░░░░░░░░░░░░░░░   37.47 % 
-🌆 Daytime                4006 commits        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-🌃 Evening                6530 commits        █████████░░░░░░░░░░░░░░░░   34.10 % 
-🌙 Night                  1439 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+🌞 Morning                7179 commits        █████████░░░░░░░░░░░░░░░░   37.47 % 
+🌆 Daytime                4008 commits        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+🌃 Evening                6530 commits        █████████░░░░░░░░░░░░░░░░   34.08 % 
+🌙 Night                  1441 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   2719 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Tuesday                  2248 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Wednesday                2704 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Thursday                 2809 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Friday                   2555 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Monday                   2719 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Tuesday                  2248 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Wednesday                2704 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Thursday                 2809 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Friday                   2561 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 Saturday                 3074 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Sunday                   3043 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Sunday                   3043 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 ```
 
 
