@@ -137,7 +137,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:AyushAgnihotri2025-->
-![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -147,7 +147,7 @@ About Me = [
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,812 Contributions in the Year 2026
+> 🏆 1,815 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -155,6 +155,41 @@ About Me = [
  > 
 > 🔑 115 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7423 commits        █████████░░░░░░░░░░░░░░░░   36.79 % 
+🌆 Daytime                4258 commits        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+🌃 Evening                6785 commits        ████████░░░░░░░░░░░░░░░░░   33.63 % 
+🌙 Night                  1709 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   2881 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Tuesday                  2374 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Wednesday                2847 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Thursday                 2933 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Friday                   2694 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Saturday                 3238 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Sunday                   3208 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 38 mins        █████████████████████████   99.86 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🔥 Editors: 
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
