@@ -141,13 +141,13 @@ About Me = [
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.32%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,071 Contributions in the Year 2026
+> 🏆 2,073 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -155,45 +155,6 @@ About Me = [
  > 
 > 🔑 118 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7449 commits        █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌆 Daytime                4263 commits        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-🌃 Evening                6779 commits        ████████░░░░░░░░░░░░░░░░░   33.47 % 
-🌙 Night                  1761 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2903 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Tuesday                  2389 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Wednesday                2876 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Thursday                 2965 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Friday                   2710 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Saturday                 3246 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Sunday                   3163 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-XML                      4 hrs 21 mins       ████████████░░░░░░░░░░░░░   47.33 % 
-Kotlin                   3 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.94 % 
-Groovy                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Gradle                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Properties               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-
-🔥 Editors: 
-Android Studio           8 hrs 57 mins       ████████████████████████░   97.13 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-
-💻 Operating System: 
-Windows                  9 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
