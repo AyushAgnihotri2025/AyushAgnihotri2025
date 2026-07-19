@@ -147,7 +147,7 @@ About Me = [
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,073 Contributions in the Year 2026
+> 🏆 2,076 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -155,6 +155,45 @@ About Me = [
  > 
 > 🔑 118 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7509 commits        █████████░░░░░░░░░░░░░░░░   36.61 % 
+🌆 Daytime                4342 commits        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+🌃 Evening                6896 commits        ████████░░░░░░░░░░░░░░░░░   33.62 % 
+🌙 Night                  1766 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   2927 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Tuesday                  2411 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Wednesday                2901 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Thursday                 2978 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Friday                   2747 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Saturday                 3303 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Sunday                   3246 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+XML                      3 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.13 % 
+Kotlin                   2 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.29 % 
+Groovy                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+
+🔥 Editors: 
+Android Studio           6 hrs 37 mins       ████████████████████████░   96.16 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+
+💻 Operating System: 
+Windows                  6 hrs 53 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
