@@ -137,7 +137,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:AyushAgnihotri2025-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C009%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -147,7 +147,7 @@ About Me = [
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,121 Contributions in the Year 2026
+> 🏆 2,123 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -155,45 +155,6 @@ About Me = [
  > 
 > 🔑 119 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7533 commits        █████████░░░░░░░░░░░░░░░░   36.49 % 
-🌆 Daytime                4374 commits        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-🌃 Evening                6957 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
-🌙 Night                  1779 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2961 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Tuesday                  2423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Wednesday                2925 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 2993 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Friday                   2756 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Saturday                 3320 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Sunday                   3265 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-XML                      1 hr 56 mins        █████████████████░░░░░░░░   66.24 % 
-Kotlin                   47 mins             ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-
-🔥 Editors: 
-Android Studio           2 hrs 39 mins       ███████████████████████░░   90.93 % 
-VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-
-💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
