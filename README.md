@@ -137,7 +137,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:AyushAgnihotri2025-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C009%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -147,7 +147,7 @@ About Me = [
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,123 Contributions in the Year 2026
+> 🏆 2,127 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -155,6 +155,45 @@ About Me = [
  > 
 > 🔑 119 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7536 commits        █████████░░░░░░░░░░░░░░░░   36.49 % 
+🌆 Daytime                4374 commits        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+🌃 Evening                6958 commits        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+🌙 Night                  1782 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   2962 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Tuesday                  2429 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Wednesday                2925 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Thursday                 2993 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Friday                   2756 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Saturday                 3320 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Sunday                   3265 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   50 mins             ████████░░░░░░░░░░░░░░░░░   32.10 % 
+XML                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+TOML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+
+🔥 Editors: 
+Android Studio           1 hr 25 mins        ██████████████░░░░░░░░░░░   54.14 % 
+VS Code                  1 hr 12 mins        ███████████░░░░░░░░░░░░░░   45.86 % 
+
+💻 Operating System: 
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
