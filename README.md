@@ -141,13 +141,13 @@ About Me = [
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.34%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,192 Contributions in the Year 2026
+> 🏆 2,205 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -158,21 +158,21 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7558 commits        █████████░░░░░░░░░░░░░░░░   36.45 % 
-🌆 Daytime                4396 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-🌃 Evening                6991 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
-🌙 Night                  1791 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+🌞 Morning                7580 commits        █████████░░░░░░░░░░░░░░░░   36.45 % 
+🌆 Daytime                4399 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+🌃 Evening                7020 commits        ████████░░░░░░░░░░░░░░░░░   33.76 % 
+🌙 Night                  1797 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   2973 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Tuesday                  2445 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Wednesday                2947 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Thursday                 3016 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Friday                   2767 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Saturday                 3320 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Sunday                   3268 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Monday                   2973 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Tuesday                  2451 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Wednesday                2950 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Thursday                 3031 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Friday                   2785 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Saturday                 3338 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Sunday                   3268 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 ```
 
 
@@ -197,9 +197,9 @@ Windows                  1 hr 42 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-Python                   46 repos            ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-TypeScript               40 repos            █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-C                        2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Python                   46 repos            ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+TypeScript               40 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
