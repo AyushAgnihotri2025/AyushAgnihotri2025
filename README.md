@@ -137,17 +137,17 @@ About Me = [
     <br>
 
 <!--START_SECTION:AyushAgnihotri2025-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,274 Contributions in the Year 2026
+> 🏆 2,276 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -158,21 +158,21 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7563 commits        █████████░░░░░░░░░░░░░░░░   36.52 % 
-🌆 Daytime                4374 commits        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-🌃 Evening                6973 commits        ████████░░░░░░░░░░░░░░░░░   33.67 % 
-🌙 Night                  1800 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+🌞 Morning                7622 commits        █████████░░░░░░░░░░░░░░░░   36.35 % 
+🌆 Daytime                4453 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+🌃 Evening                7090 commits        ████████░░░░░░░░░░░░░░░░░   33.81 % 
+🌙 Night                  1803 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   2975 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Tuesday                  2443 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Wednesday                2934 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 3010 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Friday                   2753 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Saturday                 3336 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Sunday                   3259 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Monday                   3000 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Tuesday                  2465 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Wednesday                2959 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Thursday                 3023 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Friday                   2790 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Saturday                 3392 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Sunday                   3339 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
 ```
 
 
@@ -180,18 +180,18 @@ Sunday                   3259 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   50 mins             █████████████░░░░░░░░░░░░   50.22 % 
-XML                      21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-TOML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Python                   1 hr 25 mins        ███████████████░░░░░░░░░░   61.89 % 
+XML                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+TOML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        ██████████████████░░░░░░░   71.74 % 
-Android Studio           28 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+VS Code                  1 hr 48 mins        ████████████████████░░░░░   79.15 % 
+Android Studio           28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
