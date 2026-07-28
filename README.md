@@ -137,7 +137,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:AyushAgnihotri2025-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -147,7 +147,7 @@ About Me = [
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,288 Contributions in the Year 2026
+> 🏆 2,291 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -155,6 +155,42 @@ About Me = [
  > 
 > 🔑 122 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7626 commits        █████████░░░░░░░░░░░░░░░░   36.34 % 
+🌆 Daytime                4455 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+🌃 Evening                7094 commits        ████████░░░░░░░░░░░░░░░░░   33.81 % 
+🌙 Night                  1808 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   3011 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Tuesday                  2469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Wednesday                2959 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Thursday                 3023 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Friday                   2790 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Saturday                 3392 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Sunday                   3339 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 10 mins        ████████████████████████░   97.38 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
