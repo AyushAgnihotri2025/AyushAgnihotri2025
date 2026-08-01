@@ -137,7 +137,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:AyushAgnihotri2025-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -147,7 +147,7 @@ About Me = [
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,350 Contributions in the Year 2026
+> 🏆 2,352 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -158,10 +158,10 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7640 commits        █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌞 Morning                7640 commits        █████████░░░░░░░░░░░░░░░░   36.30 % 
 🌆 Daytime                4474 commits        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-🌃 Evening                7108 commits        ████████░░░░░░░░░░░░░░░░░   33.78 % 
-🌙 Night                  1820 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+🌃 Evening                7109 commits        ████████░░░░░░░░░░░░░░░░░   33.78 % 
+🌙 Night                  1821 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
@@ -170,9 +170,9 @@ Monday                   3011 commits        ████░░░░░░░�
 Tuesday                  2478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 Wednesday                2972 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 Thursday                 3036 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Friday                   2802 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Saturday                 3404 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Sunday                   3339 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Friday                   2802 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Saturday                 3405 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Sunday                   3340 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 ```
 
 
@@ -180,17 +180,17 @@ Sunday                   3339 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 30 mins       ██████████████████░░░░░░░   73.63 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Python                   3 hrs 32 mins       ██████████████████░░░░░░░   73.34 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
