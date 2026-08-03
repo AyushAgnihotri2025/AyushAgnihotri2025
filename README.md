@@ -137,7 +137,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:AyushAgnihotri2025-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -147,7 +147,7 @@ About Me = [
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,374 Contributions in the Year 2026
+> 🏆 2,376 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -155,44 +155,6 @@ About Me = [
  > 
 > 🔑 122 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7646 commits        █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌆 Daytime                4480 commits        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-🌃 Evening                7114 commits        ████████░░░░░░░░░░░░░░░░░   33.77 % 
-🌙 Night                  1826 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   3021 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Tuesday                  2478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Wednesday                2972 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 3036 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Friday                   2802 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Saturday                 3405 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Sunday                   3352 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   2 hrs 58 mins       ██████████████████░░░░░░░   70.26 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
