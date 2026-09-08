@@ -139,7 +139,7 @@ About Me = [
 <!--START_SECTION:AyushAgnihotri2025-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -147,7 +147,7 @@ About Me = [
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,783 Contributions in the Year 2026
+> 🏆 2,785 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -158,8 +158,8 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7759 commits        █████████░░░░░░░░░░░░░░░░   36.10 % 
-🌆 Daytime                4583 commits        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+🌞 Morning                7759 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌆 Daytime                4585 commits        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
 🌃 Evening                7219 commits        ████████░░░░░░░░░░░░░░░░░   33.58 % 
 🌙 Night                  1934 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
@@ -167,9 +167,9 @@ About Me = [
 
 ```text
 Monday                   3085 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Tuesday                  2550 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Tuesday                  2552 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 Wednesday                3037 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Thursday                 3090 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Thursday                 3090 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 Friday                   2854 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 Saturday                 3466 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 Sunday                   3413 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
