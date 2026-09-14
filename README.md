@@ -139,7 +139,7 @@ About Me = [
 <!--START_SECTION:AyushAgnihotri2025-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -147,7 +147,7 @@ About Me = [
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,841 Contributions in the Year 2026
+> 🏆 2,844 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -159,20 +159,20 @@ About Me = [
 
 ```text
 🌞 Morning                7770 commits        █████████░░░░░░░░░░░░░░░░   36.05 % 
-🌆 Daytime                4595 commits        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-🌃 Evening                7232 commits        ████████░░░░░░░░░░░░░░░░░   33.55 % 
-🌙 Night                  1956 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+🌆 Daytime                4597 commits        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+🌃 Evening                7233 commits        ████████░░░░░░░░░░░░░░░░░   33.55 % 
+🌙 Night                  1956 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3090 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Monday                   3093 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Tuesday                  2554 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 Wednesday                3047 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Thursday                 3099 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 Friday                   2864 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 Saturday                 3477 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Sunday                   3422 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Sunday                   3422 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 ```
 
 
